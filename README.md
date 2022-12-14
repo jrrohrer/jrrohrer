@@ -9,7 +9,6 @@ Have any questions? Don't hesitate to reach out to me on one of these platforms:
 
 <a href="https://dev.to/jrrohrer" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to Badge"></a>
 <a href="https://www.linkedin.com/in/jessie-rohrer/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-<a href="https://twitter.com/jrrohrer" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
 
 <h2>Technical Skills</h2>
 
