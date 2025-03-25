@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/35381492/126847172-7d4b725f-6f78-4e54-a4da-c65644e549d5.png" alt="Banner: Jessie Rohrer, Full Stack Developer">
 
 <h2>About Me</h2>
-I am a software engineer with a background in social work. I'm a November '21 graduate of the Flatiron School software engineering program, and I have a prior BA in Psychology from Shippensburg University. My current tech stack is Ruby, Rails, HTML, CSS, JavaScript, React, & Redux. I am currently a full-stack Rails dev at Slope.io.
+I am a software engineer with a background in social work. I'm a November '21 graduate of the Flatiron School software engineering program, and I have a BA in Psychology from Shippensburg University. My current tech stack is Ruby, Rails, HTML, CSS, JavaScript, React, & Redux. I am currently a full-stack dev at Slope Clinical.
 
 <h2>Connect with me on social media:</h2>
 
