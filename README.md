@@ -32,7 +32,7 @@ Have any questions? Don't hesitate to reach out to me on one of these platforms:
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Mac OS](https://img.shields.io/badge/Mac_OS-0078D6)
+![Mac OS](https://img.shields.io/badge/Mac_OS-0078D6?style=for-the-badge)
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 
 <h2>GitHub Stats</h2>
